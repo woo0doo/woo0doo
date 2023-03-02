@@ -27,7 +27,7 @@
   <div align="center">
     
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duden5000)](https://solved.ac/duden5000)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duden5000)](https://solved.ac/profile/duden5000)
     
 
  </p>
