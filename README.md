@@ -1,5 +1,9 @@
 
 <p align="center">
+    <Strong>☁️Blog☁️</Strong><br><br>
+    <a href="https://woo0doo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+</p>
+<p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
 
