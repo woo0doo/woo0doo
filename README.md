@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
 </p>
 <p align="center" display="inline-block">
-    💡DB <br><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/>
+    💡DB <br>
+    <img src="https://img.shields.io/badge/QueryDSL-0094F5?style=plastic&logo=querydsl&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" height=22px/>
 </p>
 <p align="center" display="inline-block">
     💡etc <br>
